@@ -15,6 +15,9 @@ and open the template in the editor.
              
          }
          
+         function ojcfuncion2() {
+             
+         }
         ?>
     </body>
 </html>
