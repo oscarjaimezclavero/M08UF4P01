@@ -24,7 +24,6 @@ and open the template in the editor.
          }
          
          function ojc_especial() {
-             echo "noel gonzalez";
          }
         ?>
     </body>
