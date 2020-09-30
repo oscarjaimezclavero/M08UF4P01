@@ -18,6 +18,10 @@ and open the template in the editor.
          function ojcfuncion2() {
              
          }
+         
+         function ojcfuncion3() {
+             
+         }
         ?>
     </body>
 </html>
