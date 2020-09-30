@@ -22,6 +22,10 @@ and open the template in the editor.
          function ojcfuncion3() {
              
          }
+         
+         function ojc_especial() {
+             
+         }
         ?>
     </body>
 </html>
